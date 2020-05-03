@@ -47,6 +47,14 @@ If the option is exercised, the outcome is the same for the seller before and af
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.07.jpg)
 
 If an option is  **at the money**  when the market closes on the expiration date, it could be assigned. ATM options are subject to  **pin risk**, which is the risk that a stock is trading close to the strike price at expiration, leaving the seller uncertain about whether he’ll be assigned. If the seller is assigned and the price gaps against him at open the following Monday after expiration, the seller would have to take a loss on a position he wasn’t planning on holding. This risk can be avoided by closing your options (buying them back) before expiration.
+
+Here’s an example of a pin risk situation. In the following example, Coca-Cola, which trades under ticker KO, closed exactly at $41.50 the day before the 1/15/16 expiration date.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.08.jpg)
+
+If you’d sold the 41.50 call or put, you’d be subject to pin risk, which is the uncertainty of assignment. Depending on the actions taken by the seller, you may or may not be assigned the shares.
+
+Whether you’re the buyer or the seller, it’s important to keep track of your trades’ expiration dates and where they’re trading (ITM, ATM, or OTM). If, as a buyer, you don’t want to exercise your option, or if, as the seller, you don’t want to get assigned, be prepared to keep an eye on your positions. And if you’re the seller, keep in mind that you can’t entirely protect yourself from assignment risk, but you can take steps in the right direction by closing your positions several days before expiration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDY3MjAwOV19
+eyJoaXN0b3J5IjpbLTE1ODc0NDExNjVdfQ==
 -->
