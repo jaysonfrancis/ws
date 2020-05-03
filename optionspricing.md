@@ -37,6 +37,24 @@ Let’s discuss each of these factors, beginning with the **price of the underly
 Another thing to note about changes in price is that its impact on an options premium isn’t linear. For example, the underlying stock may move $1 and you may see the options premium increase $0.30. Then the underlying stock may move $1 more, and you may see the options premium increase $0.38. This non-linear relationship is common to all aspects of options pricing and, as you’ll learn, can be a valuable tool for certain strategies. Later in this lesson, we’ll introduce additional concepts that will help you identify specifically how much an options premium might change depending on changes in various factors.
 
 Now, let’s examine the next factor that makes up the options premium:  **time**. All options have an expiration date. The amount of time left until expiration is the time value of an option. Options with many months until expiration have a lot of time value, while options with only a few days until expiration have little time value. This is because more time to expiration means more time for the option to possibly become profitable—for which the market is willing to pay more. Time value slowly erodes every minute of an options contract’s life (including weekends). This is often referred to as time decay, which describes the way time value melts as an option nears expiration. Time value doesn’t melt at a steady rate either; it melts faster the closer it gets to expiration.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.09.jpg)
+
+**Implied volatility** refers to the amount of an options premium attributed to a stock’s perceived riskiness. To put it another way, it estimates how much price movement is expected by the market in that stock before expiration. A stock that’s more likely to make a big move in price (up or down) has more implied volatility, and a stock that’s less likely to make a big move has less implied volatility.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.10.jpg)
+
+Implied volatility tends to spike before events that can have a big impact on a stock’s price, like earnings announcements.
+
+The word “implied” refers to how it’s calculated. Unlike stock price and time, which can be easily identified, implied volatility is not something you can determine from looking at a stock chart or a calendar. Instead, it’s calculated by starting with the options price and working backward. Implied volatility is simply what’s left over when all other inputs are accounted for. As you’ll explore further on the next page, options prices are generally set by a market maker. When a market maker adjusts prices up and down due to supply and demand, she’s essentially adjusting implied volatility levels. Because of the market maker’s role in determining implied volatility, it’s often considered a more subjective variable rather than something concrete.
+
+There are other extrinsic factors like interest rates and dividends that impact an options price. But compared to time and implied volatility, they’re much less important. That said, it’s still helpful to understand them and how they might impact your trading decisions.
+
+Like almost all securities in the financial world, options are impacted by  **interest rates**. When interest rates rise, call premiums increase and put premiums decrease.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.11.jpg)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzIxNzI5XX0=
+eyJoaXN0b3J5IjpbLTU3ODU2MzAyMl19
 -->
