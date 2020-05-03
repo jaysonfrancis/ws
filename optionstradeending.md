@@ -34,7 +34,13 @@ When a buyer exercises an option, a seller gets  **assigned**. Assignment means 
 
 The likelihood of assignment increases as an option approaches expiration, which is why many option sellers elect to exit trades around four to 10 days out. Doing so helps these sellers avoid assignment while still taking advantage of time decay. The likelihood of assignment also increases for short call positions when the underlying has a  **dividend**  distribution in the near future; as you’ve learned, in some cases, option buyers will exercise the option before the stock’s ex-dividend date so that they’re holding the shares in time to receive the dividend.
 
+Okay, now let’s look at how options trades end  **at expiration**.
 
+If an option is  **in the money**  by as little as $0.01 at expiration, it will be  **automatically exercised**  for the buyer and assigned to a seller. If you don’t want to exercise your option,  **close it before expiration**. If you are long an ITM option and  _don’t_  want to be automatically exercised, you should contact your broker.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.06.jpg)
+
+If you don’t have the money and your option is exercised, you’ll be required to come up with the money, even if it means selling other assets. This is known as a  **margin call**. If you’re issued a margin call, your broker will likely notify you that you don’t have enough cash in your account to fulfill your obligations. You’re often given a specified amount of time to come up with the cash, and if you don’t, the broker will sell your assets until the loan is paid back. Note that the broker could liquidate positions immediately if necessary without notice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk1OTkwODRdfQ==
+eyJoaXN0b3J5IjpbMTI5NDY4NjY0NF19
 -->
