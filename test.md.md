@@ -14,7 +14,13 @@ With calls, the buyer has the <b>right to buy</b> stock. However, puts, a buyer 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.02.jpg)
 
-While options traders can own the underlying when trading a call or a put, they don't have to. In the case of puts, this might seem a little confusing. After all, it's a little strange that someone would want to have the right to sell something they don't own. We'll explore this more in am
+While options traders can own the underlying when trading a call or a put, they don't have to. In the case of puts, this might seem a little confusing. After all, it's a little strange that someone would want to have the right to sell something they don't own. We'll explore this more in a moment, but what's more important to understand is how this specification impacts the options premium. Te result of this difference is that calls and puts have a different bias - call options gain value when the price of the underlying stock <b>increases</b>, while put options gain value when the price of the underlying stock <b>decreases</b>.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.03.jpg)
+
+For this reason, buying a call option is similar to buying a stock - it's a <b>long</b> or bullish position. Buying a put option, on the other hand, is similar to <b>shorting</b> a stock - it's bearish. 
+
+Let's dive in the details of how each option
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjU3MTMzM119
+eyJoaXN0b3J5IjpbLTE3NzI2ODY5ODldfQ==
 -->
