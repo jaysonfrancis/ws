@@ -54,7 +54,13 @@ Like almost all securities in the financial world, options are impacted by  **in
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.11.jpg)
 
+Here’s why. If you buy a call instead of stock, you can invest the remaining capital you would’ve spent on the stock and earn interest. When rates are higher, you earn more interest on that capital—this is appealing to traders, as evidenced in higher demand for long calls, which increases premiums. On the other hand, if you own a put contract and rates are high, you might choose to exercise it early so that you can sell stock and free up capital that can earn interest. In this environment, demand for puts is low, which decreases premiums.
 
+The impact of  **dividends**  is similar, as it influences whether people prefer owning options or stock. The higher the dividend, the **lower the call premium** and the **higher the put premium**.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.12.jpg)
+
+Let’s break this down. When dividends are issued, the stock price drops by the amount of the dividend. The call premium prices in this drop and is lower as a result. The put premium anticipates the lower stock price as well, but it increases as a hedge against the drop.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODU2MzAyMl19
+eyJoaXN0b3J5IjpbMTE1Mzc1ODg2Ml19
 -->
