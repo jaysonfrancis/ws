@@ -1,10 +1,10 @@
 #### Options Greeks
 
-greek | power
--------- | -----
-delta | price | underlying price sensitivity. or P(delta) = Expiration ITM
-gamma | rate | how delta changes (non-linear) in respect to underlying.
-theta | time | how much value slips away each day, time decay sensitivity 
+greek | domain | power
+-------- | ----- | -----
+$\Delta$ | price | underlying price sensitivity. or P($\Delta$) = Expiration ITM
+$\Gamma$ | rate | how delta changes (non-linear) in respect to underlying.
+$\Theta$ | time | how much value slips away each day, time decay sensitivity 
 vega | risk | implied volatility sensitivity 
 rho | gov | interest rate sensitivity
 
@@ -16,6 +16,12 @@ Call Option -
 	- Theta -0.02
 	- Vega 0.07
 ``
+
+
+$\Delta$
+$\Gamma$
+$\Theta$
+$\vega$ 
 
 Moves from 45 to 46, Premium increases to 1.65 (35 cents), (-2 cents thetha) = $1.63
 Moves from 46 to 47, Premium increases to 2.04 (41 cents), (-2 cents theta) = $2.02
@@ -92,7 +98,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDIwODg4LDQwOTYyODkxNyw5MDEzMz
-Q3MDQsNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNTM3MTg2NzA1
-XX0=
+eyJoaXN0b3J5IjpbLTg1NDk2NjQ4Myw0MDk2Mjg5MTcsOTAxMz
+M0NzA0LDYwMDAyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4Njcw
+NV19
 -->
