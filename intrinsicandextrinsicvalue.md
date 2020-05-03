@@ -44,7 +44,13 @@ If an option has no intrinsic value, it’s  **out of the money (OTM)**. A call 
 
 Because extrinsic value melts away over time, options that are OTM at expiration will expire worthless. Likewise, except in rare situations, these options go unassigned. The premiums for OTM options tend to be less expensive. The further OTM an option is, the cheaper it is and the more confident traders are that it’ll expire out of the money. But all options are subject to price risk, or the possibility that the price of the underlying stock could make an unexpected move.
 
+The strike price that’s closest to the current price of the underlying is called the  **at-the-money (ATM)**  strike. The ATM strike could also be considered ITM (if the strike has intrinsic value) or OTM (if the strike has no extrinsic value).
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.09.jpg)
+
+ATM options have the largest amount of extrinsic value of any option. Because the ATM strike price is the closest to the current market price, there’s a lot of uncertainty—it could be ITM or OTM at expiration. However, because these options often have little or no intrinsic value, they tend to have lower premiums than other ITM options. An ATM option may or may not have intrinsic value, and therefore, it may or may not be exercised before or at expiration. Anytime an option has intrinsic value, its risk of being exercised greatly increases. And an option that expires with intrinsic value will likely be automatically exercised. It’s worth noting that there are rare situations where an option that’s OTM is exercised. However, these situations are far from the norm.
+
+The value of an option changes over the course of a trade. Depending on what happens with price, time, and implied volatility, an option can start out in the money but expire out of the money. Or it can start out of the money and expire in the money. ITM, OTM, and ATM are helpful quick references that clue option traders into whether an option has intrinsic value and whether it’s likely to be exercised. As we get into specific strategies, you’ll learn more about how these classifications factor into trading decisions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTM5NDgwMywtMzcwMTMzNDUwXX0=
+eyJoaXN0b3J5IjpbLTgxODQ2Nzk5MiwtMzcwMTMzNDUwXX0=
 -->
