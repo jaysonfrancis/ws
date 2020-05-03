@@ -38,6 +38,13 @@ ITM options have intrinsic value, and for this reason, premiums for ITM options 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.07.jpg)
 
+If an option has no intrinsic value, it’s  **out of the money (OTM)**. A call is OTM when the strike price is higher than the current price of the underlying security, and a put is OTM when the strike price is lower than the current price of the underlying security. OTM options prices are entirely made up of extrinsic value.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.08.jpg)
+
+Because extrinsic value melts away over time, options that are OTM at expiration will expire worthless. Likewise, except in rare situations, these options go unassigned. The premiums for OTM options tend to be less expensive. The further OTM an option is, the cheaper it is and the more confident traders are that it’ll expire out of the money. But all options are subject to price risk, or the possibility that the price of the underlying stock could make an unexpected move.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTM1MTcxMywtMzcwMTMzNDUwXX0=
+eyJoaXN0b3J5IjpbLTkyNTM5NDgwMywtMzcwMTMzNDUwXX0=
 -->
