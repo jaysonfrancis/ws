@@ -23,6 +23,12 @@ Intrinsic value is just one part of the equation. We also need to factor in  **e
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.04.jpg)
 
 These are the two primary components of extrinsic value, but factors like interest rates and dividends play a lesser role. Another way to think about it is that extrinsic value is the value that’s left over if you subtract intrinsic value from the options premium. Let’s look at an example using our same long call on XYZ, which has $3 of intrinsic value. Say this option sold for a $5 premium. To figure out the extrinsic value, subtract the intrinsic value from the premium ($5 – $3), which is $2.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.05.jpg)
+
+Intrinsic and extrinsic value are important to option traders because they help traders differentiate between the inherent value of an option and the rest of the value that will melt away by expiration. When you consider that buyers suffer from the loss of extrinsic value while option sellers benefit from this loss, you can see how this is valuable information. As you’ll see when we get into the strategies, selecting the option with the right amount of extrinsic or intrinsic value is a necessary step when trading options.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDk3MDU0N119
+eyJoaXN0b3J5IjpbLTk5MzI2MTE2Nl19
 -->
