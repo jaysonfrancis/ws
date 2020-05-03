@@ -40,8 +40,16 @@ For example, suppose an option had a delta of .25 and a gamma of .05. The option
 
 Gamma helps you understand whether an option is getting more or less sensitive to price changes. Gamma also changes over the life of an option, growing larger as an option nears expiration. This is known as  **gamma risk**. When an option has gamma risk, it has a large gamma and therefore increased sensitivity to changes in price, which can lead to big swings in the options premium. Gamma is typically largest when an option is ATM—in these situations, small movements in the underlying price can make a big difference.
 
+Now that we’ve covered price, let’s move on to  **theta**. Theta measures how sensitive an option is to time decay.
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.09.jpg)
+
+On long calls and puts, theta is always  **negative**, which indicates that the option loses value as time passes. For example, an option with a theta of -.02 would likely lose $0.02 of value every day (including weekends). Like the other greeks, theta doesn’t stay the same—it tends to  **increase closer to expiration**, which means options lose value faster as expiration approaches.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.10.jpg)
+
+Theta works  **against buyers**  and  **in favor of sellers**. Theta reduces the value of the options premium each day. For this reason, buyers generally prefer options with smaller theta, while sellers generally prefer options with larger theta. Like gamma, theta tends to be largest in ATM options. These two greeks are very interrelated.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTA0MzM2Miw2MDAwMjkzODksLTEwOT
-Q2MjgyNzAsLTE1MzcxODY3MDVdfQ==
+eyJoaXN0b3J5IjpbOTAxMzM0NzA0LDYwMDAyOTM4OSwtMTA5ND
+YyODI3MCwtMTUzNzE4NjcwNV19
 -->
