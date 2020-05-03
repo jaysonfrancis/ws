@@ -10,6 +10,19 @@ We’ll begin with  **delta**. Delta measures how sensitive an option is to a $1
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.02.jpg)
 
+For example, if a long call option has a delta of .55, the options premium will likely increase by $0.55 if the price of the underlying stock increases by $1.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.03.jpg)
+
+Likewise, if the price of the underlying decreased $1, the option would likely lose $0.55.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.04.jpg)
+
+A long put, on the other hand, might have a delta of -.25. The negative sign indicates that the premium decreases when the stock price goes up, and increases when the stock price goes down. Considering a long put is a bearish trade, this bias makes sense.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.05.jpg)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTIzNTU2LC0xNTM3MTg2NzA1XX0=
+eyJoaXN0b3J5IjpbLTQyMzM4NzA1NiwtMTUzNzE4NjcwNV19
 -->
