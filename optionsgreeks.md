@@ -49,7 +49,13 @@ On long calls and puts, theta is always  **negative**, which indicates that the 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.10.jpg)
 
 Theta works  **against buyers**  and  **in favor of sellers**. Theta reduces the value of the options premium each day. For this reason, buyers generally prefer options with smaller theta, while sellers generally prefer options with larger theta. Like gamma, theta tends to be largest in ATM options. These two greeks are very interrelated.
+
+The last of the four major greeks is  **vega**, which measures how sensitive an option is to changes in implied volatility.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.11.jpg)
+
+As we’ve discussed, implied volatility prices in the expected price movement (or risk) of an option. If an option has a vega of .01, the options premium will likely increase $0.01 with each 1 percentage point change in implied volatility. An option with a higher vega will be more sensitive to changes in implied volatility. Many traders look at implied volatility when determining what strategy to use in a certain situation. For example, when volatility is high, some traders prefer selling strategies because premiums tend to be higher when implied volatility is higher.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMzM0NzA0LDYwMDAyOTM4OSwtMTA5ND
-YyODI3MCwtMTUzNzE4NjcwNV19
+eyJoaXN0b3J5IjpbNjkwNTUzNTc1LDkwMTMzNDcwNCw2MDAwMj
+kzODksLTEwOTQ2MjgyNzAsLTE1MzcxODY3MDVdfQ==
 -->
