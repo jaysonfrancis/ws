@@ -24,7 +24,16 @@ Let's dive in the details of how each option works, starting with <b>calls</b>. 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.04.jpg)
 
-To help illustrate how this works, let's walk through a quick example. Stock XYZ is currently trading at $75. Trader A expects stock XYZ to go up in value, so she. buys a call option with a 76 strike price of $1.50, for a total cost of $150. Remember a call option gains value as the price of the underlying increases. Trader B thinks XYZ is going to stay around the same value or go down, so she takes the otherside of the trade and sells the option. 
+To help illustrate how this works, let's walk through a quick example. Stock XYZ is currently trading at $75. Trader A expects stock XYZ to go up in value, so she. buys a call option with a 76 strike price of $1.50, for a total cost of $150. Remember a call option gains value as the price of the underlying increases. Trader B thinks XYZ is going to stay around the same value or go down, so she takes the other side of the trade and sells the option. 
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.05.jpg)
+
+Now, if the stock price stays below the 76 strike until expiration, the buyer has no reason to exercise her right (who wants to buy a stock for more than it's worth?), and the option expires worthless. She's out of the $150 premium, which the seller received when the option was sold (not including transaction costs).
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.06.jpg)
+
+On the other hand, if the stock prices rises above the 76 strike, the option will likely have increased in value. Assume the stock price continues to $79. Now, the buyer has an opportunity to buy a
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA1MDYzNjFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTMxMDkwOTddfQ==
 -->
