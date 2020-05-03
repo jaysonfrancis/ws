@@ -16,7 +16,13 @@ While market makers are an important part of a well-functioning financial system
 
 The bid and the ask are a function of  **supply and demand**. If more people are willing to buy and sell options, competition for prices increases among market makers. This higher volume of trading typically results in narrower spreads. A market with high volume and narrow spreads is often called a  **liquid** market. Liquidity is good for option traders because it reduces the bid/ask spread and gives traders more confidence that they’ll be able to find a buyer or seller at a desirable price.
 
+In your own trading, it’s worthwhile to factor in the bid/ask spread and the liquidity of an option. A large bid/ask spread can greatly impact your potential profit or loss. For example, assume there’s an option with a bid of $1.00 and an ask of $1.50. Consider what would happen if you immediately entered and exited the trade at those prices—you’d be down $0.50 (a loss of more than 25%) without the options price moving at all. In order to be profitable, the options price would need to appreciate in value considerably just to cover the bid/ask spread. Now, assume there’s an option with a bid of $1.00 and an ask of $1.02—this is a much more liquid option. If you immediately entered and exited the trade at those prices, you’d only be down $0.02, which is a loss of less than 5%.
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.30.03.jpg)
+
+As you’ll see later when we demonstrate strategies, it’s important to always check the bid/ask spread and the volume to ensure that your option has sufficient liquidity.
+
+_Please note that in the options market, there is no absolute guarantee of being able to close out of any options position. For example, an option could be so far out of the money that nobody wants to purchase it. Or if trading on the underlying stock has been halted, the trading of its options will also be halted._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgxNDc4MjBdfQ==
+eyJoaXN0b3J5IjpbLTQzOTIzMjE2Nl19
 -->
