@@ -1,5 +1,6 @@
 #### Options Greeks
 
+
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
 
 The options greeks, also known as “the greeks,” are measurements that help traders estimate how changes in the various factors could impact the options premium. Many traders also use the greeks to help identify which options to trade and to manage either a single trade or a portfolio of trades. Let’s meet the greeks and see how they can be used.
@@ -70,6 +71,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NjI4OTE3LDkwMTMzNDcwNCw2MDAwMj
-kzODksLTEwOTQ2MjgyNzAsLTE1MzcxODY3MDVdfQ==
+eyJoaXN0b3J5IjpbOTA3MDIyMjc5LDQwOTYyODkxNyw5MDEzMz
+Q3MDQsNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNTM3MTg2NzA1
+XX0=
 -->
