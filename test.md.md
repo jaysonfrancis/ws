@@ -20,7 +20,11 @@ While options traders can own the underlying when trading a call or a put, they 
 
 For this reason, buying a call option is similar to buying a stock - it's a <b>long</b> or bullish position. Buying a put option, on the other hand, is similar to <b>shorting</b> a stock - it's bearish. 
 
-Let's dive in the details of how each option
+Let's dive in the details of how each option works, starting with <b>calls</b>. A call option gives the buyer the <b>right to buy</b> 100 shares of an underlying security at the strike price before the expiration date. It <b>obligates the seller to sell</b> 100 shares.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.04.jpg)
+
+To help illustrate how this works, let's walk through a quick example. Stock XYZ is currently trading at $75. Trader A expects stock XYZ to go up in value, so she. buys a call option with a 76 strike price of $1.50, for a total cost of $150. Remember a call option gains value as the price of the underlying increases. Trader B thinks XYZ is going to stay around the same value or go down, so she takes the otherside of the trade and sells the option. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI2ODY5ODldfQ==
+eyJoaXN0b3J5IjpbLTEyMTA1MDYzNjFdfQ==
 -->
