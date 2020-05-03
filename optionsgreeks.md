@@ -2,11 +2,11 @@
 
 greek | power
 -------- | -----
-delta | underlying price sensitivity.
+delta | price | underlying price sensitivity. or P(delta) = Expiration ITM
 gamma | how delta changes (non-linear) in respect to underlying.
-theta | expiration 
-vega | implied volitilit
-rho | 
+theta | time decay sensitivity 
+vega | implied volatility sensitivity 
+rho | interest rate sensitivity
 
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
 
@@ -78,7 +78,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNTA4MjEyLDQwOTYyODkxNyw5MDEzMz
-Q3MDQsNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNTM3MTg2NzA1
-XX0=
+eyJoaXN0b3J5IjpbNDQ0NTg4MSw0MDk2Mjg5MTcsOTAxMzM0Nz
+A0LDYwMDAyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4NjcwNV19
+
 -->
