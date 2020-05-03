@@ -54,8 +54,18 @@ The last of the four major greeks is  **vega**, which measures how sensitive an 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.11.jpg)
 
-As we’ve discussed, implied volatility prices in the expected price movement (or risk) of an option. If an option has a vega of .01, the options premium will likely increase $0.01 with each 1 percentage point change in implied volatility. An option with a higher vega will be more sensitive to changes in implied volatility. Many traders look at implied volatility when determining what strategy to use in a certain situation. For example, when volatility is high, some traders prefer selling strategies because premiums tend to be higher when implied volatility is higher.
+As we’ve discussed, implied volatility prices in the expected price movement (or risk) of an option. If an option has a vega of .01, the options premium will likely increase $0.01 with each 1 percentage point change in implied volatility. An option with a higher vega will be more sensitive to changes in implied volatility. Many traders look at implied volatility when determining what strategy to use in a certain situation. For example, when **volatility is high, some traders prefer selling strategies** because premiums tend to be higher when implied volatility is higher.
+
+Implied volatility tends to increase when a stock, its sector, or the overall market falls in price. These declines tend to increase perceived risk, and therefore, implied volatility tends to rise.
+
+Implied volatility is also likely to increase before events that often cause big moves in the stock price like earnings announcements, Fed announcements, or other important events on the economic calendar. These events are associated with a lot of uncertainty. In spite of their best estimates, traders don’t know how the Fed will vote or whether a company’s earnings will out- or underperform. After these events occur and the uncertainty is gone, implied volatility quickly drops, which can have a significant impact on options premiums.
+
+**Implied volatility quickly drops after significant events like earnings announcements**.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.12.jpg)
+
+For this reason, you should be very cautious when trading options around earnings events. If you do so, you need to feel strongly that the underlying stock will make a big move outside the range priced in by implied volatility. You could be right on the direction of the move, but if the stock doesn’t move more than the market was expecting (the amount priced into the option through implied volatility), you’ll likely not make a profit due to the large value of implied volatility that is lost immediately after the event. Of course, if you’re selling options, this loss of implied volatility could be a good thing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNTUzNTc1LDkwMTMzNDcwNCw2MDAwMj
-kzODksLTEwOTQ2MjgyNzAsLTE1MzcxODY3MDVdfQ==
+eyJoaXN0b3J5IjpbLTEyMTM0NTU0NzQsOTAxMzM0NzA0LDYwMD
+AyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4NjcwNV19
 -->
