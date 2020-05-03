@@ -59,6 +59,8 @@ On the other hand, if FAMB falls below $60 to $55, Trader C is in a position to 
 The table below summarizes calls and puts from both the buyer and seller perspectives. Notice the different rights and obligations and the direction or bias of each position.
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.12.jpg)
+
+Note that the examples we’ve looked at on this page have been simplified to illustrate the contract specifications of calls and puts. In these examples, we’ve focused just on price changes in the underlying stock and how that impacts various options. However, price is just **one part** of an options premium. In the remainder of this lesson, we’ll layer in additional factors and show how they too impact an options premium.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MDIyNTQ4XX0=
+eyJoaXN0b3J5IjpbLTQ0ODY2MjA2OV19
 -->
