@@ -56,9 +56,11 @@ If you’d sold the 41.50 call or put, you’d be subject to pin risk, which is 
 
 Whether you’re the buyer or the seller, it’s important to keep track of your trades’ expiration dates and where they’re trading (ITM, ATM, or OTM). If, as a buyer, you don’t want to exercise your option, or if, as the seller, you don’t want to get assigned, be prepared to keep an eye on your positions. And if you’re the seller, keep in mind that you can’t entirely protect yourself from assignment risk, but you can take steps in the right direction by closing your positions several days before expiration.
 
-Call Option $2, $200 total. (1 contract), 54 strike call option @ trading $53..
 
-XYZ now trading at $55.50 (
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTg5MDk1NywtMTU4NzQ0MTE2NV19
+eyJoaXN0b3J5IjpbNzk4MTQxOTU5LC0xNTg3NDQxMTY1XX0=
 -->
