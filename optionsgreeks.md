@@ -22,7 +22,11 @@ A long put, on the other hand, might have a delta of -.25. The negative sign ind
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.05.jpg)
 
+The larger the delta, the more sensitive an option is to changes in the underlying. For example, an option with a delta of .78 will be more sensitive to changes in price than an option with a delta of .38. Delta can fluctuate anywhere between 1.00 and -1.00.
+
+You can also think of delta in terms of moneyness (i.e., whether it’s ITM, ATM, or OTM). If an option has a delta from .51 to 1.00, it’s in the money. If it has a delta of .50, it’s at the money. And if it has a delta of .00 to .49, it’s out of the money.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzM4NzA1NiwtMTUzNzE4NjcwNV19
+eyJoaXN0b3J5IjpbMTA0Nzc0NjE5MCwtMTUzNzE4NjcwNV19
 -->
