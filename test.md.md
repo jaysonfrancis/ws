@@ -8,7 +8,13 @@ Let's start with a quick review of what you've learned already. An options contr
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.01.jpg)
 
-Now that we've reviewed some of the basics, let's dig into why options work the way they do. To start, there are two types of options contracts: <b>call options</b> and <b>put options</b>. Both are ve
+Now that we've reviewed some of the basics, let's dig into why options work the way they do. To start, there are two types of options contracts: <b>call options</b> and <b>put options</b>. Both are very similar - they have nearly identical specifications (premium, strike, expirations, etc..). However, the one important difference is that the buyers of each have different rights. 
+
+With calls, the buyer has the <b>right to buy</b> stock. However, puts, a buyer as the <b>right to sell</b> stock.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.02.jpg)
+
+While options traders can own the underlying when trading a call or a put, they don't have to. In the case of puts, this might seem a little confusing. After all, it's a little strange that someone would want to have the right to sell something they don't own. We'll explore this more in am
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDgzMzI1MV19
+eyJoaXN0b3J5IjpbLTkwNjU3MTMzM119
 -->
