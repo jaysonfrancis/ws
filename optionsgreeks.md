@@ -38,8 +38,10 @@ For example, suppose an option had a delta of .25 and a gamma of .05. The option
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.08.jpg)
 
+Gamma helps you understand whether an option is getting more or less sensitive to price changes. Gamma also changes over the life of an option, growing larger as an option nears expiration. This is known as  **gamma risk**. When an option has gamma risk, it has a large gamma and therefore increased sensitivity to changes in price, which can lead to big swings in the options premium. Gamma is typically largest when an option is ATM—in these situations, small movements in the underlying price can make a big difference.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNT
-M3MTg2NzA1XX0=
+eyJoaXN0b3J5IjpbMjAyMTA0MzM2Miw2MDAwMjkzODksLTEwOT
+Q2MjgyNzAsLTE1MzcxODY3MDVdfQ==
 -->
