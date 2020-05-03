@@ -6,7 +6,14 @@ delta | price | underlying price sensitivity. or P(delta) = Expiration ITM
 gamma | rate | how delta changes (non-linear) in respect to underlying.
 theta | time | how much value slips away each day, time decay sensitivity 
 vega | risk | implied volatility sensitivity 
-rho | interest rate sensitivity
+rho | gov | interest rate sensitivity
+
+``
+Call Option - Price: 1.30$
+Delta: 
+``
+
+
 
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
 
@@ -78,7 +85,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjIwMDM0OSw0MDk2Mjg5MTcsOTAxMz
+eyJoaXN0b3J5IjpbMTYzMzExMzA2Niw0MDk2Mjg5MTcsOTAxMz
 M0NzA0LDYwMDAyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4Njcw
 NV19
 -->
