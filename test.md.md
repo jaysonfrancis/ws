@@ -47,6 +47,18 @@ Like we mentioned earlier, the contract specifications of puts can be a little t
 To illustrate this, let’s look at another example. This time, let’s say stock FAMB is trading at $61. Trader C thinks the stock price is going to go down, so he buys a single put option with a 60 strike for $200. He doesn’t currently own any shares of FAMB. Meanwhile, Trader D thinks FAMB is going to increase in price, so he takes the other side of the trade and sells the put option.
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.09.jpg)
+
+If the stock stays above $60 through expiration, the option expires worthless. After all, why would you sell a stock far below its current market value? The buyer—Trader C—is out the $200 premium, while the seller—Trader D—is able to keep the premium he received.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.10.jpg)
+
+On the other hand, if FAMB falls below $60 to $55, Trader C is in a position to exercise his option and sell the underlying at a higher price than its current market value. Even if Trader C has to buy 100 shares of FAMB for $5,500 (plus commissions and fees) before he can exercise his right to sell, he could make a profit of approximately $500 since he’s got a buyer locked in at $60 per share. Trader C could also choose to close the position by selling the options contract, and earn about the same amount of profit by doing so.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.11.jpg)
+
+The table below summarizes calls and puts from both the buyer and seller perspectives. Notice the different rights and obligations and the direction or bias of each position.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.12.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNDk4Njg5XX0=
+eyJoaXN0b3J5IjpbNDM1MDIyNTQ4XX0=
 -->
