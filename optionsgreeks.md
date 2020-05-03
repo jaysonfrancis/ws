@@ -64,8 +64,12 @@ Implied volatility is also likely to increase before events that often cause big
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.12.jpg)
 
-For this reason, you should be very cautious when trading options around earnings events. If you do so, you need to feel strongly that the underlying stock will make a big move outside the range priced in by implied volatility. You could be right on the direction of the move, but if the stock doesn’t move more than the market was expecting (the amount priced into the option through implied volatility), you’ll likely not make a profit due to the large value of implied volatility that is lost immediately after the event. Of course, if you’re selling options, this loss of implied volatility could be a good thing.
+For this reason, you should be very cautious when trading options around earnings events. If you do so, you need to feel strongly that the underlying stock will make a **big move outside the range priced in by implied volatility**. You could be right on the direction of the move, but if the stock doesn’t move more than the market was expecting (**the amount priced into the option through implied volatility**), you’ll likely not make a profit due to the large value of implied volatility that is lost immediately after the event. Of course, if you’re selling options, this loss of implied volatility could be a good thing.
+
+Now, there are a few other greeks in the options world. However, they’re much less significant than delta, gamma, theta, and vega. We’ll introduce one again here—the greek  **rho**, which measures how sensitive an option is to changes in interest rates. Keep in mind, however, that because rates change so slowly, rho’s impact is typically nominal.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM0NTU0NzQsOTAxMzM0NzA0LDYwMD
-AyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4NjcwNV19
+eyJoaXN0b3J5IjpbNDA5NjI4OTE3LDkwMTMzNDcwNCw2MDAwMj
+kzODksLTEwOTQ2MjgyNzAsLTE1MzcxODY3MDVdfQ==
 -->
