@@ -8,18 +8,17 @@ $\Theta$ | time | how much value slips away each day, time decay sensitivity
 V | risk | implied volatility sensitivity 
 $\rho$  | gov | interest rate sensitivity
 
-``
+> Example Greek Representation
 Call Option - 
 	- Premium: 1.30$
 	- Delta 0.35
 	- Gamma 0.06
 	- Theta -0.02
 	- Vega 0.07
-``
-
-Moves from 45 to 46, Premium increases to 1.65 (35 cents $\Delta$ ), (-2 cents $\Theta$) = $1.63
-Moves from 46 to 47, Premium increases to 2.04 (41 cents $\Delta$ + $\Gamma$ ), (-2 cents $\Theta$) = $2.02
-Implied volatility increases 1 percentage point (0.07 cents V) = Premium = $2.09
+	>> 
+	t=1) Moves from 45 to 46, Premium increases to 1.65 (35 cents $\Delta$ ), (-2 cents $\Theta$) = $1.63
+	t=2) Moves from 46 to 47, Premium increases to 2.04 (41 cents $\Delta$ + $\Gamma$ ), (-2 cents $\Theta$) = $2.02
+	t=2) Implied volatility also increases 1 percentage point (0.07 cents V) = Premium = $2.09
 
 
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
@@ -92,7 +91,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMTIxMjAyLDQwOTYyODkxNyw5MDEzMz
+eyJoaXN0b3J5IjpbNzYzMDE4ODMzLDQwOTYyODkxNyw5MDEzMz
 Q3MDQsNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNTM3MTg2NzA1
 XX0=
 -->
