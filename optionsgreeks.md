@@ -36,8 +36,10 @@ As mentioned earlier, the value of the options premium doesn’t move linearly. 
 
 For example, suppose an option had a delta of .25 and a gamma of .05. The options premium would likely increase by $0.25 with the first $1 increase in the underlying. On the second $1 increase, the options premium would likely increase $0.30 (delta [.25] + gamma [.05]).
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.08.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMDAxMzM5LC0xMDk0NjI4MjcwLC0xNT
+eyJoaXN0b3J5IjpbNjAwMDI5Mzg5LC0xMDk0NjI4MjcwLC0xNT
 M3MTg2NzA1XX0=
 -->
