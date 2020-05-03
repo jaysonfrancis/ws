@@ -26,9 +26,16 @@ These are the two primary components of extrinsic value, but factors like intere
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.05.jpg)
 
-Intrinsic and extrinsic value are important to option traders because they help traders differentiate between the inherent value of an option and the rest of the value that will melt away by expiration. When you consider that buyers suffer from the loss of extrinsic value while option sellers benefit from this loss, you can see how this is valuable information. As you’ll see when we get into the strategies, selecting the option with the right amount of extrinsic or intrinsic value is a necessary step when trading options.
+Intrinsic and extrinsic value are important to option traders because they help traders differentiate between the inherent value of an option and the rest of the value that will melt away by expiration. When you consider that buyers suffer from the loss of extrinsic value while option sellers benefit from this loss, you can see how this is valuable information. As you’ll see when we get into the strategies, **selecting the option with the right amount of extrinsic or intrinsic value is a necessary step when trading options.**
 
+Now, let’s look at intrinsic value another way. Depending on how much intrinsic value they have, options are classified as **in the money, at the money, or out of the money**.
+
+Options with intrinsic value are classified as  **in the money (ITM)**. Remember, a call has intrinsic value when the strike is below the current price, and a put has intrinsic value when the strike is above the current price.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.06.jpg)
+
+ITM options have intrinsic value, and for this reason, premiums for ITM options are often more expensive. The more ITM an option is, the more confident traders feel that the option will expire in the money (though there are never guarantees). After all, an option that is currently in the money is more likely to be in the money at expiration than an option that’s out of the money. Another important consideration for ITM options is that they’re more likely to be exercised. This is particularly important when you’re an option seller. When an option you’ve sold has gone ITM, your risk of being assigned increases significantly. Generally, this risk increases as an option approaches expiration. If an option expires ITM, it’ll likely be automatically exercised.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzI2MTE2Nl19
+eyJoaXN0b3J5IjpbLTM3MDEzMzQ1MF19
 -->
