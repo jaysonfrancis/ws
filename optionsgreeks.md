@@ -9,10 +9,15 @@ vega | risk | implied volatility sensitivity
 rho | gov | interest rate sensitivity
 
 ``
-Call Option - Price: 1.30$
-Delta: 
+Call Option - 
+	- Premium: 1.30$
+	- Delta 0.35
+	- Gamma 0.06
+	- Theta -0.02
+	- Vega 0.07
 ``
 
+Moves from 45 to 46, Premium increases to 1.65
 
 
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
@@ -85,7 +90,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzExMzA2Niw0MDk2Mjg5MTcsOTAxMz
+eyJoaXN0b3J5IjpbMjAyOTcwMzEyMCw0MDk2Mjg5MTcsOTAxMz
 M0NzA0LDYwMDAyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4Njcw
 NV19
 -->
