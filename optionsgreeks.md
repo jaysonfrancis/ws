@@ -17,8 +17,8 @@ Call Option -
 	- Vega 0.07
 ``
 
-Moves from 45 to 46, Premium increases to 1.65 (35 cents), (-2 cents due to theta after 1 day)
-Moves from 46 to 47, Premium increases to 2.04 (47 cents)
+Moves from 45 to 46, Premium increases to 1.65 (35 cents), (-2 cents thetha) = 1.63
+Moves from 46 to 47, Premium increases to 2.04 (41 cents), (-2 cents theta) = 2.02
 
 
 Our discussion of options pricing laid the groundwork for understanding how options are valued. However, what specific impact does each factor have on an option? For example, you know that some part of the premium erodes with each passing day, but how much? That’s where the  **options greeks**  come in.
@@ -91,7 +91,7 @@ Now, there are a few other greeks in the options world. However, they’re much 
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.40.13.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODgwNzM0Myw0MDk2Mjg5MTcsOTAxMz
-M0NzA0LDYwMDAyOTM4OSwtMTA5NDYyODI3MCwtMTUzNzE4Njcw
-NV19
+eyJoaXN0b3J5IjpbLTE5ODM5OTE1MjYsNDA5NjI4OTE3LDkwMT
+MzNDcwNCw2MDAwMjkzODksLTEwOTQ2MjgyNzAsLTE1MzcxODY3
+MDVdfQ==
 -->
