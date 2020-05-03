@@ -26,7 +26,15 @@ Notice that while both buyers and sellers can close and roll trades, only buyers
 
 **If a buyer chooses to exercise a call option, she’ll purchase 100 shares of the underlying stock at the strike price**.
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.04.jpg)
+
+When a buyer exercises an option, a seller gets  **assigned**. Assignment means that a seller is required to fulfill the obligations of the options contract, whether buying or selling shares. From the seller’s perspective, assignment can be a significant risk. Keep in mind, that this risk is generally only present when the short option has gone ITM.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.05.jpg)
+
+The likelihood of assignment increases as an option approaches expiration, which is why many option sellers elect to exit trades around four to 10 days out. Doing so helps these sellers avoid assignment while still taking advantage of time decay. The likelihood of assignment also increases for short call positions when the underlying has a  **dividend**  distribution in the near future; as you’ve learned, in some cases, option buyers will exercise the option before the stock’s ex-dividend date so that they’re holding the shares in time to receive the dividend.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIzNzU0MDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTk1OTkwODRdfQ==
 -->
