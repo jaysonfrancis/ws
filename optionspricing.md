@@ -61,6 +61,8 @@ The impact of  **dividends**  is similar, as it influences whether people prefer
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.20.12.jpg)
 
 Let’s break this down. When dividends are issued, the stock price drops by the amount of the dividend. The call premium prices in this drop and is lower as a result. The put premium anticipates the lower stock price as well, but it increases as a hedge against the drop.
+
+Dividends also impact the likelihood of assignment. Remember, you only receive dividends if you own the stock the day before the ex-dividend date. If you own a call option for a stock with an upcoming dividend and the ex-dividend date is before expiration, you may choose to exercise early to capture the dividend. For the same reason, if you’ve sold a call option and the price of the underlying is above the strike, the chance of assignment increases as the ex-dividend date approaches. Dividends have more of an impact on options with longer expirations than shorter because more dividend payments are distributed in a longer period of time; however, the risk of assignment is always greater as an option gets closer to expiration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mzc1ODg2Ml19
+eyJoaXN0b3J5IjpbMjAwODEyNjM1NV19
 -->
