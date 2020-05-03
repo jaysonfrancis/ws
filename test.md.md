@@ -32,8 +32,21 @@ Now, if the stock price stays below the 76 strike until expiration, the buyer ha
 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.06.jpg)
 
-On the other hand, if the stock prices rises above the 76 strike, the option will likely have increased in value. Assume the stock price continues to $79. Now, the buyer has an opportunity to buy a
+On the other hand, if the stock price rises above the 76 strike, the option will likely have increased in value. Assume the stock price continues to $79. Now, the buyer has an opportunity to buy a stock that the market values at $79 for a price of $76. This situation can have considerable value. In fact, in this scenario, if the buyer sold her contract at this point, her potential profits would likely be significantly larger than the seller’s profits in the previous scenario.
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.07.jpg)
+
+At this point, the buyer could either exit the trade by selling the contract back for a higher price than she originally paid or exercise the contract to purchase 100 shares at the strike price.
+
+Now, let’s take a closer look at puts. A  **put** option gives the buyer the  **right to sell**  100 shares of an underlying security at the strike price before the expiration date. This is different from the options examples you’ve seen up to this point because we’ve primarily been talking about call options. But as you can probably guess, a put  **obligates the seller to buy** 100 shares of the underlying stock at the strike price.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.08.jpg)
+
+Like we mentioned earlier, the contract specifications of puts can be a little tricky to understand. For example, assuming you don’t already own shares of the underlying, how can you sell something you don’t own? Well, it comes down to timing. You don’t need to own the shares when you buy the put option—all that matters is that you can fulfill your end of the deal when the trade is closed. So, even if you don’t own the stock, you could buy it at the current market price before you exercise the option and then effectively sell it (or “put” it) to the option seller with the exercise.
+
+To illustrate this, let’s look at another example. This time, let’s say stock FAMB is trading at $61. Trader C thinks the stock price is going to go down, so he buys a single put option with a 60 strike for $200. He doesn’t currently own any shares of FAMB. Meanwhile, Trader D thinks FAMB is going to increase in price, so he takes the other side of the trade and sells the put option.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.10.09.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMDkwOTddfQ==
+eyJoaXN0b3J5IjpbMjIyNDk4Njg5XX0=
 -->
