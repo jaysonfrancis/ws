@@ -36,6 +36,8 @@ Options with intrinsic value are classified as  **in the money (ITM)**. Remember
 
 ITM options have intrinsic value, and for this reason, premiums for ITM options are often more expensive. The more ITM an option is, the more confident traders feel that the option will expire in the money (though there are never guarantees). After all, an option that is currently in the money is more likely to be in the money at expiration than an option that’s out of the money. Another important consideration for ITM options is that they’re more likely to be exercised. This is particularly important when you’re an option seller. When an option you’ve sold has gone ITM, your risk of being assigned increases significantly. Generally, this risk increases as an option approaches expiration. If an option expires ITM, it’ll likely be automatically exercised.
 
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.35.07.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDEzMzQ1MF19
+eyJoaXN0b3J5IjpbMTQ2OTM1MTcxMywtMzcwMTMzNDUwXX0=
 -->
