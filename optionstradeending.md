@@ -41,6 +41,12 @@ If an option is  **in the money**  by as little as $0.01 at expiration, it will 
 ![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.06.jpg)
 
 If you don’t have the money and your option is exercised, you’ll be required to come up with the money, even if it means selling other assets. This is known as a  **margin call**. If you’re issued a margin call, your broker will likely notify you that you don’t have enough cash in your account to fulfill your obligations. You’re often given a specified amount of time to come up with the cash, and if you don’t, the broker will sell your assets until the loan is paid back. Note that the broker could liquidate positions immediately if necessary without notice.
+
+If the option is exercised, the outcome is the same for the seller before and after expiration: assignment. Assignment has  **pros and cons**. If your goal was to get in or out of a stock through assignment, it can be convenient. But if you don’t want to buy or sell shares, assignment can be an unwelcome event, especially since it usually comes along with  **assignment fees** (which tend to be higher than standard trading fees). And if you don’t have the shares you committed to sell or the money for the shares you committed to buy, you could wind up in an unwanted short stock or margin call situation.
+
+![](https://education.ameritrade.com/content/cms/images/BDTO_Lesson_2.50.07.jpg)
+
+If an option is  **at the money**  when the market closes on the expiration date, it could be assigned. ATM options are subject to  **pin risk**, which is the risk that a stock is trading close to the strike price at expiration, leaving the seller uncertain about whether he’ll be assigned. If the seller is assigned and the price gaps against him at open the following Monday after expiration, the seller would have to take a loss on a position he wasn’t planning on holding. This risk can be avoided by closing your options (buying them back) before expiration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDY4NjY0NF19
+eyJoaXN0b3J5IjpbMTI3MDY3MjAwOV19
 -->
