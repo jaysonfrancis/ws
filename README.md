@@ -10,7 +10,6 @@
     3. [Three Uses of Options in a Portfolio](options/md/1.3-threeusesofoptions.md)
     4. [Benefits of Options Trading](options/md/1.4-benefitsofoptionstrading.md)
     5. [Risks of Options Trading](options/md/1.5-riskofoptionstrading.md)
-    6. [Your Path to Successfully Learning about Options](options/md/)
 2. Options Basics
     1. [Options Contract Specifications](options/md/2.1-optionscontractspecifications.md)
     2. [Options Pricing](options/md/2.2-optionspricing.md)
@@ -62,5 +61,5 @@
 
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjAyMDQ0N119
+eyJoaXN0b3J5IjpbLTE1MTYwMzcxNl19
 -->
