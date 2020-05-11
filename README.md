@@ -5,11 +5,11 @@
 ## Options Trading
 
 1. Options and Your Portfolio *(Not yet available)*
-    1. [Introducing Options](options/md/)
-    2. [How Options Work](options/md/)
-    3. [Three Uses of Options in a Portfolio](options/md/)
-    4. [Benefits of Options Trading](options/md/)
-    5. [Risks of Options Trading](options/md/)
+    1. [Introducing Options](options/md/1.1-introducingoptions.md)
+    2. [How Options Work](options/md/1.2-howoptionswork.md)
+    3. [Three Uses of Options in a Portfolio](options/md/1.3-threeusesofoptions.md)
+    4. [Benefits of Options Trading](options/md/1.4-benefitsofoptionstrading.md)
+    5. [Risks of Options Trading](options/md/1.5-riskofoptionstrading.md)
     6. [Your Path to Successfully Learning about Options](options/md/)
 2. Options Basics
     1. [Options Contract Specifications](options/md/2.1-optionscontractspecifications.md)
@@ -61,3 +61,6 @@
 ## Alternative Data Sources 
 
 ## Resources 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI3MjAyMDQ0N119
+-->
