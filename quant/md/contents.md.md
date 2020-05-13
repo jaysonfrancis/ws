@@ -37,9 +37,12 @@ def pcaWeights(cov,riskDist=None,riskTarget=1.):
 > Non-negative Rolled Price Series
 ```python
 raw=pd.read_csv(filePath,index_col=0,parse_dates=True)
-
+gaps=rollGaps(raw,dictio={'Instrument':'Symbol','Open':'Open','Close':'Close'})
+rolled=raw.copy(deep=True)
+for fld in ['Open','Close']:rolled[fld]-=gaps
+rolled['Returns']=rolled['Close'].diff()/raw['Close'].shift(1)
+rolled['rPrices']=(1+rolled['Returns']).cumpred()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY4NTA5NjIsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTgyNDk1Mzg1NywtMjA4ODc0NjYxMl19
 -->
