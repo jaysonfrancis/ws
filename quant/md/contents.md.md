@@ -33,6 +33,13 @@ def pcaWeights(cov,riskDist=None,riskTarget=1.):
   wghts=np.dot(eVec,np.reshape(loads,(-1,1)))
   return wghts
 ```
+
+> Non-negative Rolled Price Series
+```python
+raw=pd.read_csv(filePath,index_col=0,parse_dates=True)
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMzE1MzExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3MDY4NTA5NjIsLTIwODg3NDY2MTJdfQ
+==
 -->
