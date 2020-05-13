@@ -19,15 +19,20 @@
 - Tick Runs Bars
 
 
-```
+> PCA weights from a risk distribution.
+```python
 def pcaWeights(cov,riskDist=None,riskTarget=1.):
   # Following the riskAlloc distribution, match riskTarget
   eVal,eVec=np.linalg.eigh(cov) # mst be Hermitian
   indices=eVal.argsort()[::-1]  # arguments for sorting eVal desc
   eVal,eVec=eVal[indicies],eVec[:indices]
   if riskDist is None:
-    riskDist=np.zeros(cov.shape[
+    riskDist=np.zeros(cov.shape[0])
+    riskDist[-1]=1.
+  loads=riskTarget*(riskDist/eVal)**0.5
+  wghts=np.dot(eVec,np.reshape(loads,(-1,1)))
+  return wghts
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzk3NTY5NywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzMxMzE1MzExLC0yMDg4NzQ2NjEyXX0=
 -->
