@@ -17,8 +17,17 @@
 - Tick Imbalance Bars
 - Volume/Dollar Imbalance Bars
 - Tick Runs Bars
-- 
+
+
+```
+def pcaWeights(cov,riskDist=None,riskTarget=1.):
+  # Following the riskAlloc distribution, match riskTarget
+  eVal,eVec=np.linalg.eigh(cov) # mst be Hermitian
+  indices=eVal.argsort()[::-1]  # arguments for sorting eVal desc
+  eVal,eVec=eVal[indicies],eVec[:indices]
+  if riskDist is None:
+    riskDist=np.zeros(cov.shape[
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2MDU3NzAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTI3Nzk3NTY5NywtMjA4ODc0NjYxMl19
 -->
