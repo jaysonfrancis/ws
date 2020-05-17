@@ -57,13 +57,14 @@
 
 ## Brokerages and Platforms
 - [Fidelity Investments](https://www.fidelity.com/)
+- [TD Ameritrade](https://www.tdameritrade.com)
+- [InteractiveBrokers](https://www.fidelity.com/)
 - [Fidelity Investments](https://www.fidelity.com/)
-- [Fidelity Investments](https://www.fidelity.com/) 
-- - [Fidelity Investments](https://www.fidelity.com/)
-- - [Fidelity Investments](https://www.fidelity.com/)
-- - [Fidelity Investments](https://www.fidelity.com/)
-- - [Fidelity Investments](https://www.fidelity.com/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [Tastyworks](https://www.tastyworks.com/) 
+- [Fidelity Investments](https://www.fidelity.com/)
+
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEzNzUyMCwtMTUxNjAzNzE2XX0=
+eyJoaXN0b3J5IjpbLTIwMzY4NTQzNSwtMTUxNjAzNzE2XX0=
 -->
