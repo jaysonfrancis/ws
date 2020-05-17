@@ -1,7 +1,3 @@
-
-
-## Brokerages and Platforms
-
 ## Options Trading
 
 1. Options and Your Portfolio *(Not yet available)*
@@ -59,7 +55,15 @@
 
 ## Alternative Data Sources 
 
+## Brokerages and Platforms
+- [Fidelity Investments](https://www.fidelity.com/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [Fidelity Investments](https://www.fidelity.com/) 
+- - [Fidelity Investments](https://www.fidelity.com/)
+- - [Fidelity Investments](https://www.fidelity.com/)
+- - [Fidelity Investments](https://www.fidelity.com/)
+- - [Fidelity Investments](https://www.fidelity.com/)
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYwMzcxNl19
+eyJoaXN0b3J5IjpbLTE5NDEzNzUyMCwtMTUxNjAzNzE2XX0=
 -->
