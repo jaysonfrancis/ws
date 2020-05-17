@@ -57,8 +57,10 @@
 
 ## Brokerages and Platforms
 
-- [https://ninjatrader.com/](https://ninjatrader.com/)
-- 
+- [Ninjatrader](https://ninjatrader.com/)
+- [Tradestation](https://www.tradestation.com/)
+- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)
+- [Tradingview](https://www.tradingview.com/)
 - [Fidelity Investments](https://www.fidelity.com/)
 - [TD Ameritrade](https://www.tdameritrade.com)
 - [InteractiveBrokers](https://www.interactivebrokers.com/)
@@ -68,5 +70,5 @@
 
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNDgzMjA4LC0xNTE2MDM3MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzM5NzUwOTIsLTE1MTYwMzcxNl19
 -->
