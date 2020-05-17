@@ -65,10 +65,10 @@
 - [TD Ameritrade](https://www.tdameritrade.com)
 - [InteractiveBrokers](https://www.interactivebrokers.com/)
 - [Charles Schwab](https://www.schwab.com/)
-- [E Trade](https://www.etrade.com/)
+- [E-Trade](https://www.etrade.com/)
 - [Tastyworks](https://www.tastyworks.com/) 
 
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5NzUwOTIsLTE1MTYwMzcxNl19
+eyJoaXN0b3J5IjpbLTEyNDg2NzE4NDEsLTE1MTYwMzcxNl19
 -->
