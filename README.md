@@ -56,15 +56,17 @@
 ## Alternative Data Sources 
 
 ## Brokerages and Platforms
+
+- [https://ninjatrader.com/](https://ninjatrader.com/)
+- 
 - [Fidelity Investments](https://www.fidelity.com/)
 - [TD Ameritrade](https://www.tdameritrade.com)
-- [InteractiveBrokers](https://www.fidelity.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
+- [InteractiveBrokers](https://www.interactivebrokers.com/)
+- [Charles Schwab](https://www.schwab.com/)
+- [E Trade](https://www.etrade.com/)
 - [Tastyworks](https://www.tastyworks.com/) 
-- [Fidelity Investments](https://www.fidelity.com/)
 
 ## Resources 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY4NTQzNSwtMTUxNjAzNzE2XX0=
+eyJoaXN0b3J5IjpbNzMyNDgzMjA4LC0xNTE2MDM3MTZdfQ==
 -->
