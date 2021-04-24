@@ -1,6 +1,33 @@
+## Platforms
+
+- [Ninjatrader](https://ninjatrader.com/)
+- [Tradestation](https://www.tradestation.com/)
+- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)
+- [Tradingview](https://www.tradingview.com/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [TD Ameritrade](https://www.tdameritrade.com)
+- [InteractiveBrokers](https://www.interactivebrokers.com/)
+- [Charles Schwab](https://www.schwab.com/)
+- [E-Trade](https://www.etrade.com/)
+- [Tastyworks](https://www.tastyworks.com/) 
+- [Alpaca](https://alpaca.markets/)
+
+#### Data Management
+- [arctic.io](https://arctic.readthedocs.io/)
+
+#### Data Vendors
+- [polygon.io](https://polygon.io/docs/getting-started)
+- [iex-trading](https://iextrading.com/developers/)
+
+#### Other Tools
+- [finta](https://github.com/peerchemist/finta)
+- [mplfinance](https://github.com/matplotlib/mplfinance)
+- [mlfinlab](https://github.com/hudson-and-thames/mlfinlab)
+- [backtrader](https://github.com/mementum/backtrader)
+  
 ## Options Trading
 
-1. Options and Your Portfolio *(Not yet available)*
+1. Options and Your Portfolio 
     1. [Introducing Options](options/md/1.1-introducingoptions.md)
     2. [How Options Work](options/md/1.2-howoptionswork.md)
     3. [Three Uses of Options in a Portfolio](options/md/1.3-threeusesofoptions.md)
@@ -44,31 +71,3 @@
     1. [Why Trade Uncovered Options](options/md/6.0-whytradeuncoveredoptions.md)
     2. [Trading Naked Calls and Puts](options/md/6.1-tradingnakedcallsandputs.md)
     3. [Trading Naked Straddles and Strangles](options/md/6.2-tradingnakedstraddlesandstrangles.md)
-
-## Futures Trading
-
-## Foreign Exchange
-
-## Bonds & T-Bills
-
-## Systematic Trading
-
-## Alternative Data Sources 
-
-## Brokerages and Platforms
-
-- [Ninjatrader](https://ninjatrader.com/)
-- [Tradestation](https://www.tradestation.com/)
-- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)
-- [Tradingview](https://www.tradingview.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [InteractiveBrokers](https://www.interactivebrokers.com/)
-- [Charles Schwab](https://www.schwab.com/)
-- [E-Trade](https://www.etrade.com/)
-- [Tastyworks](https://www.tastyworks.com/) 
-
-## Resources 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg2NzE4NDEsLTE1MTYwMzcxNl19
--->
