@@ -32,7 +32,7 @@
     2. [How Options Work](options/md/1.2-howoptionswork.md)
     3. [Three Uses of Options in a Portfolio](options/md/1.3-threeusesofoptions.md)
     4. [Benefits of Options Trading](options/md/1.4-benefitsofoptionstrading.md)
-    5. [Risks of Options Trading](options/md/1.5-riskofoptionstrading.md)
+    5. [Risks of Options Trading](options/md/1.5-risksofoptionstrading.md)
 2. Options Basics
     1. [Options Contract Specifications](options/md/2.1-optionscontractspecifications.md)
     2. [Options Pricing](options/md/2.2-optionspricing.md)
